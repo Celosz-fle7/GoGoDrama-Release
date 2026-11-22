@@ -1,7 +1,7 @@
 {
-  "versionCode": 4,
-  "versionName": "1.0.3",
-  "apkUrl": "https://github.com/Celosz-fle7/GoGoDrama-Release/releases/download/v1.0.3/GoGoDrama-release.apk",
-  "changelog": "• Rombak total ke Native Jetpack Compose + MVI + Room + DataStore\n• Mesin C++ NDK 25 untuk kalkulasi & pembersihan cache disk riil\n• Discover: Hero Carousel, Lanjutkan Menonton (Resume bar), Grid 2/3/4 kolom adaptif\n• For You: Vertical swipe Reels feed auto-play, expandable sinopsis, side action panel\n• Player Compose: Fullscreen gestures (brightness/volume swipe, double-tap seek, PiP, episode grid)\n• My List: Tab Riwayat & Favorit tersinkronisasi Room secara real-time\n• Profile CloudStream Style: Kotak Live Preview Subtitle, DoH Network (DNS over HTTPS), pembersih cache C++, dan Backup/Restore JSON",
+  "versionCode": 5,
+  "versionName": "1.0.4",
+  "apkUrl": "https://github.com/Celosz-fle7/GoGoDrama-Release/releases/download/v1.0.4/GoGoDrama-release.apk",
+  "changelog": "• Beranda Bersih: Banner & kartu lanjut nonton dihapus, search bar menyamping, kategori teks kecil tanpa border, grid 3 kolom proporsional\n• Multi-Keyword Dubbing Pool: Penggabungan paralel kata kunci Sulih Suara, Dubbing, dan Versi Dub dari server ShortTV\n• Mode Cuplikan Cerdas: Otomatis memutar episode terakhir yang pernah ditonton (riwayat Room), banner melebar panjang 'Tonton Lengkap'\n• Timer Cuplikan 45 Detik: Otomatis berpindah cuplikan setelah 45 detik jika tidak ditekan tonton\n• Gestur Cuplikan: 1x ketuk jeda/putar, 2x ketuk langsung suka/favorit\n• Curi Start Zero-Buffering: Pre-resolve stream URL episode & cuplikan berikutnya di latar belakang\n• Layar Player Baru: Nomor episode ringkas Ep 2 di pojok kiri atas, status Ep 2/80 di bar bawah dengan list episode chevron\n• Quick Settings Garis 3: Menu Kualitas Video, Kecepatan Putar, Subtitle, dan Sakelar Auto-Next On/Off\n• Gestur Geser Player: Swipe vertikal untuk Next Episode / Prev Episode instan\n• In-App Mini PiP: Video otomatis mengecil mengambang dengan tombol X (Close) saat pengguna berpindah tab",
   "forceUpdate": false
 }

@@ -1,7 +1,7 @@
 {
-  "versionCode": 3,
-  "versionName": "1.0.2",
-  "apkUrl": "https://github.com/Celosz-fle7/GoGoDrama-Release/releases/download/v1.0.2/GoGoDrama-release.apk",
-  "changelog": "• Desain Beranda bersih tanpa carousel gambar berjalan\n• Mesin pencari horizontal ber-border samping dengan kategori teks minimalis\n• Tata letak kartu drama 3 kolom presisi (3x3 di awal layar)\n• Tab Cuplikan/Reels sulih suara acak (Dubbing ID, Sulih Suara, Versi Dub)\n• Tab Koleksi: Segmented Riwayat Tontonan & Konten Favorit\n• Tab Profil VIP: Pusat statistik tontonan, pemilih kualitas video, dan pembersih cache",
+  "versionCode": 4,
+  "versionName": "1.0.3",
+  "apkUrl": "https://github.com/Celosz-fle7/GoGoDrama-Release/releases/download/v1.0.3/GoGoDrama-release.apk",
+  "changelog": "• Rombak total ke Native Jetpack Compose + MVI + Room + DataStore\n• Mesin C++ NDK 25 untuk kalkulasi & pembersihan cache disk riil\n• Discover: Hero Carousel, Lanjutkan Menonton (Resume bar), Grid 2/3/4 kolom adaptif\n• For You: Vertical swipe Reels feed auto-play, expandable sinopsis, side action panel\n• Player Compose: Fullscreen gestures (brightness/volume swipe, double-tap seek, PiP, episode grid)\n• My List: Tab Riwayat & Favorit tersinkronisasi Room secara real-time\n• Profile CloudStream Style: Kotak Live Preview Subtitle, DoH Network (DNS over HTTPS), pembersih cache C++, dan Backup/Restore JSON",
   "forceUpdate": false
 }

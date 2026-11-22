@@ -1,0 +1,7 @@
+{
+  "versionCode": 1,
+  "versionName": "1.0.0",
+  "apkUrl": "https://github.com/Celosz-fle7/GoGoDrama-Release/releases/latest/download/GoGoDrama-release.apk",
+  "changelog": "• Rilis Perdana GoGoDrama Universal Edition (Dual-Engine Mobile & Android TV)\n• Core C++ Gateway Signer (libgogodrama.so) dengan OLLVM Control Flow Flattening\n• AndroidX Media3 (ExoPlayer) Hardware Accelerated Decoder\n• Dukungan OTA Auto-Update In-App",
+  "forceUpdate": false
+}

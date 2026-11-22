@@ -1,7 +1,7 @@
 {
-  "versionCode": 14,
-  "versionName": "1.1.3",
-  "apkUrl": "https://github.com/Celosz-fle7/GoGoDrama-Release/releases/download/v1.1.3/GoGoDrama-release.apk",
-  "changelog": "• Hapus Tompel Hitam Reload: Indikator refresh kini tersembunyi total saat normal dan hanya muncul saat ditarik\n• Blokir Total Konten ENG DUB: Filter kurasi ketat anti bahasa Inggris, 100% khusus konten Sulih Suara Bahasa Indonesia\n• Bottom Navbar Menyatu Layar: Navbar bawah kini menempel penuh ke batas dasar fisik layar HP tanpa celah melayang",
+  "versionCode": 15,
+  "versionName": "1.1.4",
+  "apkUrl": "https://github.com/Celosz-fle7/GoGoDrama-Release/releases/download/v1.1.4/GoGoDrama-release.apk",
+  "changelog": "• Antarmuka Android TV 2 Zona: Zona 1 tab kategori + profile & hero banner, Zona 2 grid 4x3 naik penuhin layar saat scroll ke bawah\n• Navbar Pemutar TV Lengkap: ☰ List Episode, 💬 Subtitle, ⚙️ Kualitas Video, Playback controls, ❤️ Suka, 🔊 Audio, dan ︙ Pengaturan Lainnya (Kecepatan, Seek, Decoder, Auto-Next)\n• Tampilan Bersih Tanpa Cuplikan Background: Bebas animasi latar belakang berat, klik hero banner langsung putar",
   "forceUpdate": false
 }

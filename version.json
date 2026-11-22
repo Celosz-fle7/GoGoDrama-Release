@@ -1,7 +1,7 @@
 {
-  "versionCode": 15,
-  "versionName": "1.1.4",
-  "apkUrl": "https://github.com/Celosz-fle7/GoGoDrama-Release/releases/download/v1.1.4/GoGoDrama-release.apk",
-  "changelog": "• Antarmuka Android TV 2 Zona: Zona 1 tab kategori + profile & hero banner, Zona 2 grid 4x3 naik penuhin layar saat scroll ke bawah\n• Navbar Pemutar TV Lengkap: ☰ List Episode, 💬 Subtitle, ⚙️ Kualitas Video, Playback controls, ❤️ Suka, 🔊 Audio, dan ︙ Pengaturan Lainnya (Kecepatan, Seek, Decoder, Auto-Next)\n• Tampilan Bersih Tanpa Cuplikan Background: Bebas animasi latar belakang berat, klik hero banner langsung putar",
+  "versionCode": 16,
+  "versionName": "1.1.5",
+  "apkUrl": "https://github.com/Celosz-fle7/GoGoDrama-Release/releases/download/v1.1.5/GoGoDrama-release.apk",
+  "changelog": "• Antarmuka Android TV 2 Zona: Zona 1 tab kategori + profile & hero banner, Zona 2 grid 4x3 naik penuhin layar saat scroll ke bawah\n• Navbar Pemutar TV Lengkap: ☰ List Episode, 💬 Subtitle, ⚙️ Kualitas Video, Playback controls, ❤️ Suka, 🔊 Audio, dan ︙ Pengaturan Lainnya (Kecepatan, Seek, Decoder, Auto-Next)\n• Tampilan Bersih Tanpa Cuplikan Background: Bebas animasi latar belakang berat, klik hero banner langsung putar\n• Perbaikan Resource Drawable: Memperbaiki referensi icon bookmark untuk stabilitas build TV",
   "forceUpdate": false
 }

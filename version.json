@@ -1,7 +1,7 @@
 {
-  "versionCode": 2,
-  "versionName": "1.0.1",
-  "apkUrl": "https://github.com/Celosz-fle7/GoGoDrama-Release/releases/latest/download/GoGoDrama-release.apk",
-  "changelog": "• Integrasi penuh katalog resmi ShortTV (Sulih Suara ID, Populer, Rilis Baru, Peringkat)\n• Pemutaran HLS video stream langsung dari Volcengine CDN\n• Google TV 10-foot Ambient Hero Backdrop dengan D-Pad focus ring ala GOstream\n• Feed vertikal Reels/TikTok style auto-play ala GoDrama\n• Penguatan keamanan biner OLLVM CFF dan anti-dump trap",
+  "versionCode": 3,
+  "versionName": "1.0.2",
+  "apkUrl": "https://github.com/Celosz-fle7/GoGoDrama-Release/releases/download/v1.0.2/GoGoDrama-release.apk",
+  "changelog": "• Desain Beranda bersih tanpa carousel gambar berjalan\n• Mesin pencari horizontal ber-border samping dengan kategori teks minimalis\n• Tata letak kartu drama 3 kolom presisi (3x3 di awal layar)\n• Tab Cuplikan/Reels sulih suara acak (Dubbing ID, Sulih Suara, Versi Dub)\n• Tab Koleksi: Segmented Riwayat Tontonan & Konten Favorit\n• Tab Profil VIP: Pusat statistik tontonan, pemilih kualitas video, dan pembersih cache",
   "forceUpdate": false
 }

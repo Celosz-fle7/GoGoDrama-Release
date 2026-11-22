@@ -1,7 +1,7 @@
 {
-  "versionCode": 6,
-  "versionName": "1.0.5",
-  "apkUrl": "https://github.com/Celosz-fle7/GoGoDrama-Release/releases/download/v1.0.5/GoGoDrama-release.apk",
-  "changelog": "• Migrasi Backend OneRoom: Tembak langsung API api4sg.aoneroom.com persis seperti GoDrama\n• 100% Konten Sulih Suara Indonesia Otentik (Sulih suara, Dubbing, Versi dub)\n• Tab Untukmu, Sedang Tren, Terbaru, dan Rating Top terisi penuh drama dubbing Indonesia\n• Direct Stream Playback: URL streaming video MP4/HLS instan tanpa enkripsi lama",
+  "versionCode": 7,
+  "versionName": "1.0.6",
+  "apkUrl": "https://github.com/Celosz-fle7/GoGoDrama-Release/releases/download/v1.0.6/GoGoDrama-release.apk",
+  "changelog": "• Usap Lentur & Cepat (Smooth Pager): Spring fling physics pada tab For You, swipe cuplikan terasa empuk dan responsif\n• Instant Tap 0ms Lag: Menghilangkan delay double tap sehingga ketukan pause/play merespons instan seketika\n• Bar Bawah Player Rapi & Ergonomis: Border Episode panjang berdampingan dengan Love dan tombol Garis 3 di paling samping kanan\n• Tombol Tengah Disamarkan: Play/Pause, Prev, dan Next dibuat semi-transparan halus agar tidak menutupi adegan video\n• Hapus Tombol Samping Mengambang: Sisi kanan player bersih total\n• Backend OneRoom BFF: 100% Sulih Suara Indonesia & Direct MP4 stream",
   "forceUpdate": false
 }

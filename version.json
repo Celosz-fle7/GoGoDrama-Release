@@ -1,7 +1,7 @@
 {
-  "versionCode": 13,
-  "versionName": "1.1.2",
-  "apkUrl": "https://github.com/Celosz-fle7/GoGoDrama-Release/releases/download/v1.1.2/GoGoDrama-release.apk",
-  "changelog": "• Desain Tab Bersih & Minimalis: Menghilangkan tombol ekstra, tampilan tab kategori kembali rapi dan lega\n• Acak Otomatis di Belakang Layar: Setiap kali menarik layar (pull-to-refresh) di tab Beranda, katalog otomatis diacak dari ribuan konten server\n• Zero Background Leak: Otomatis jeda seketika saat minimize aplikasi atau mematikan layar HP",
+  "versionCode": 14,
+  "versionName": "1.1.3",
+  "apkUrl": "https://github.com/Celosz-fle7/GoGoDrama-Release/releases/download/v1.1.3/GoGoDrama-release.apk",
+  "changelog": "• Hapus Tompel Hitam Reload: Indikator refresh kini tersembunyi total saat normal dan hanya muncul saat ditarik\n• Blokir Total Konten ENG DUB: Filter kurasi ketat anti bahasa Inggris, 100% khusus konten Sulih Suara Bahasa Indonesia\n• Bottom Navbar Menyatu Layar: Navbar bawah kini menempel penuh ke batas dasar fisik layar HP tanpa celah melayang",
   "forceUpdate": false
 }

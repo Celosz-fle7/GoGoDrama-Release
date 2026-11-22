@@ -1,7 +1,7 @@
 {
-  "versionCode": 7,
-  "versionName": "1.0.6",
-  "apkUrl": "https://github.com/Celosz-fle7/GoGoDrama-Release/releases/download/v1.0.6/GoGoDrama-release.apk",
-  "changelog": "• Usap Lentur & Cepat (Smooth Pager): Spring fling physics pada tab For You, swipe cuplikan terasa empuk dan responsif\n• Instant Tap 0ms Lag: Menghilangkan delay double tap sehingga ketukan pause/play merespons instan seketika\n• Bar Bawah Player Rapi & Ergonomis: Border Episode panjang berdampingan dengan Love dan tombol Garis 3 di paling samping kanan\n• Tombol Tengah Disamarkan: Play/Pause, Prev, dan Next dibuat semi-transparan halus agar tidak menutupi adegan video\n• Hapus Tombol Samping Mengambang: Sisi kanan player bersih total\n• Backend OneRoom BFF: 100% Sulih Suara Indonesia & Direct MP4 stream",
+  "versionCode": 8,
+  "versionName": "1.0.7",
+  "apkUrl": "https://github.com/Celosz-fle7/GoGoDrama-Release/releases/download/v1.0.7/GoGoDrama-release.apk",
+  "changelog": "• Fix Autentikasi Signature: Sinkronisasi header Content-Type application/json; charset=utf-8 untuk verifikasi HMAC-MD5 OneRoom\n• Paginasi Aman (Limit 20): Mencegah HTTP 400 LIMIT_EXCEED pada katalog dan pencarian\n• Chunking Episode: Pengambilan cuplikan video & episode bertahap per 20 item sesuai protokol server\n• Konten 100% Mengalir: Tab Untukmu, Sedang Tren, Terbaru, Rating Top, dan Feed Cuplikan berjalan lancar",
   "forceUpdate": false
 }

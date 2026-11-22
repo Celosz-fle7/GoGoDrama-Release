@@ -1,7 +1,7 @@
 {
-  "versionCode": 16,
-  "versionName": "1.1.5",
-  "apkUrl": "https://github.com/Celosz-fle7/GoGoDrama-Release/releases/download/v1.1.5/GoGoDrama-release.apk",
-  "changelog": "• Antarmuka Android TV 2 Zona: Zona 1 tab kategori + profile & hero banner, Zona 2 grid 4x3 naik penuhin layar saat scroll ke bawah\n• Navbar Pemutar TV Lengkap: ☰ List Episode, 💬 Subtitle, ⚙️ Kualitas Video, Playback controls, ❤️ Suka, 🔊 Audio, dan ︙ Pengaturan Lainnya (Kecepatan, Seek, Decoder, Auto-Next)\n• Tampilan Bersih Tanpa Cuplikan Background: Bebas animasi latar belakang berat, klik hero banner langsung putar\n• Perbaikan Resource Drawable: Memperbaiki referensi icon bookmark untuk stabilitas build TV",
+  "versionCode": 17,
+  "versionName": "1.1.6",
+  "apkUrl": "https://github.com/Celosz-fle7/GoGoDrama-Release/releases/download/v1.1.6/GoGoDrama-release.apk",
+  "changelog": "• Zona Pencarian Mandiri Android TV: Layar pencarian terisolasi dengan keyboard virtual on-screen (A-Z, spasi, hapus) khusus navigasi D-pad remote TV tanpa gangguan popup.\n• Zona Profil Mandiri Android TV: Layar profil khusus berisi riwayat tontonan, daftar drama favorit tersimpan, total durasi tonton, dan pengaturan sistem TV.\n• Navigasi Tangga Riwayat (Back Stack): Remote TV terarah mulus tanpa fokus nyasar (hasil pencarian -> keyboard -> beranda; Zona 2 -> Zona 1).\n• Player HUD TV & Ambient Backdrop: Pemutar drama 9:16 vertikal tajam dengan kontrol streaming lengkap dan latar ambient dinamis.",
   "forceUpdate": false
 }

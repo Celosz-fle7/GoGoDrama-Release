@@ -1,7 +1,7 @@
 {
-  "versionCode": 12,
-  "versionName": "1.1.1",
-  "apkUrl": "https://github.com/Celosz-fle7/GoGoDrama-Release/releases/download/v1.1.1/GoGoDrama-release.apk",
-  "changelog": "• Tarik Untuk Reload (Pull-To-Refresh): Tab Beranda (Untukmu & semua kategori) kini bisa ditarik ke bawah untuk refresh\n• Acak Katalog Tanpa Batas: Tombol Acak instan & rotasi server page agar pengguna tidak bosan dengan konten yang itu-itu saja\n• Otomatis Jeda saat Keluar App: Video/cuplikan otomatis pause seketika saat user minimize/tekan Home/matikan layar\n• Zero Background Leak: Tidak ada lagi audio/video tertinggal saat keluar dari aplikasi",
+  "versionCode": 13,
+  "versionName": "1.1.2",
+  "apkUrl": "https://github.com/Celosz-fle7/GoGoDrama-Release/releases/download/v1.1.2/GoGoDrama-release.apk",
+  "changelog": "• Desain Tab Bersih & Minimalis: Menghilangkan tombol ekstra, tampilan tab kategori kembali rapi dan lega\n• Acak Otomatis di Belakang Layar: Setiap kali menarik layar (pull-to-refresh) di tab Beranda, katalog otomatis diacak dari ribuan konten server\n• Zero Background Leak: Otomatis jeda seketika saat minimize aplikasi atau mematikan layar HP",
   "forceUpdate": false
 }

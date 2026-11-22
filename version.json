@@ -1,7 +1,7 @@
 {
-  "versionCode": 5,
-  "versionName": "1.0.4",
-  "apkUrl": "https://github.com/Celosz-fle7/GoGoDrama-Release/releases/download/v1.0.4/GoGoDrama-release.apk",
-  "changelog": "• Beranda Bersih: Banner & kartu lanjut nonton dihapus, search bar menyamping, kategori teks kecil tanpa border, grid 3 kolom proporsional\n• Multi-Keyword Dubbing Pool: Penggabungan paralel kata kunci Sulih Suara, Dubbing, dan Versi Dub dari server ShortTV\n• Mode Cuplikan Cerdas: Otomatis memutar episode terakhir yang pernah ditonton (riwayat Room), banner melebar panjang 'Tonton Lengkap'\n• Timer Cuplikan 45 Detik: Otomatis berpindah cuplikan setelah 45 detik jika tidak ditekan tonton\n• Gestur Cuplikan: 1x ketuk jeda/putar, 2x ketuk langsung suka/favorit\n• Curi Start Zero-Buffering: Pre-resolve stream URL episode & cuplikan berikutnya di latar belakang\n• Layar Player Baru: Nomor episode ringkas Ep 2 di pojok kiri atas, status Ep 2/80 di bar bawah dengan list episode chevron\n• Quick Settings Garis 3: Menu Kualitas Video, Kecepatan Putar, Subtitle, dan Sakelar Auto-Next On/Off\n• Gestur Geser Player: Swipe vertikal untuk Next Episode / Prev Episode instan\n• In-App Mini PiP: Video otomatis mengecil mengambang dengan tombol X (Close) saat pengguna berpindah tab",
+  "versionCode": 6,
+  "versionName": "1.0.5",
+  "apkUrl": "https://github.com/Celosz-fle7/GoGoDrama-Release/releases/download/v1.0.5/GoGoDrama-release.apk",
+  "changelog": "• Migrasi Backend OneRoom: Tembak langsung API api4sg.aoneroom.com persis seperti GoDrama\n• 100% Konten Sulih Suara Indonesia Otentik (Sulih suara, Dubbing, Versi dub)\n• Tab Untukmu, Sedang Tren, Terbaru, dan Rating Top terisi penuh drama dubbing Indonesia\n• Direct Stream Playback: URL streaming video MP4/HLS instan tanpa enkripsi lama",
   "forceUpdate": false
 }

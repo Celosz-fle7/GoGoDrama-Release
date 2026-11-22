@@ -1,7 +1,7 @@
 {
-  "versionCode": 8,
-  "versionName": "1.0.7",
-  "apkUrl": "https://github.com/Celosz-fle7/GoGoDrama-Release/releases/download/v1.0.7/GoGoDrama-release.apk",
-  "changelog": "• Fix Autentikasi Signature: Sinkronisasi header Content-Type application/json; charset=utf-8 untuk verifikasi HMAC-MD5 OneRoom\n• Paginasi Aman (Limit 20): Mencegah HTTP 400 LIMIT_EXCEED pada katalog dan pencarian\n• Chunking Episode: Pengambilan cuplikan video & episode bertahap per 20 item sesuai protokol server\n• Konten 100% Mengalir: Tab Untukmu, Sedang Tren, Terbaru, Rating Top, dan Feed Cuplikan berjalan lancar",
+  "versionCode": 9,
+  "versionName": "1.0.8",
+  "apkUrl": "https://github.com/Celosz-fle7/GoGoDrama-Release/releases/download/v1.0.8/GoGoDrama-release.apk",
+  "changelog": "• Infinite Scroll Paginasi Kontinu: Scroll tanpa batas membuka ribuan koleksi sulih suara, dubbing, dan versi dub\n• Rotasi 3 Kata Kunci Dubbing Otomatis: Sinkronisasi perputaran keyword halaman bertahap persis GoDrama\n• Indikator Pemuatan Halus: Spinner pemuatan di bagian bawah grid saat memuat gelombang konten berikutnya\n• Ketersediaan Paginasi di Semua Tab: Untukmu, Sedang Tren, Terbaru, dan Rating Top kini dapat di-scroll tanpa henti",
   "forceUpdate": false
 }

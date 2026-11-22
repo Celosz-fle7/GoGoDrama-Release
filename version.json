@@ -1,7 +1,7 @@
 {
-  "versionCode": 17,
-  "versionName": "1.1.6",
-  "apkUrl": "https://github.com/Celosz-fle7/GoGoDrama-Release/releases/download/v1.1.6/GoGoDrama-release.apk",
-  "changelog": "• Zona Pencarian Mandiri Android TV: Layar pencarian terisolasi dengan keyboard virtual on-screen (A-Z, spasi, hapus) khusus navigasi D-pad remote TV tanpa gangguan popup.\n• Zona Profil Mandiri Android TV: Layar profil khusus berisi riwayat tontonan, daftar drama favorit tersimpan, total durasi tonton, dan pengaturan sistem TV.\n• Navigasi Tangga Riwayat (Back Stack): Remote TV terarah mulus tanpa fokus nyasar (hasil pencarian -> keyboard -> beranda; Zona 2 -> Zona 1).\n• Player HUD TV & Ambient Backdrop: Pemutar drama 9:16 vertikal tajam dengan kontrol streaming lengkap dan latar ambient dinamis.",
+  "versionCode": 18,
+  "versionName": "1.1.7",
+  "apkUrl": "https://github.com/Celosz-fle7/GoGoDrama-Release/releases/download/v1.1.7/GoGoDrama-release.apk",
+  "changelog": "• Proteksi Memori Anti-Dump Tingkat Kernel: Direct Linux Syscall (openat, read, close) untuk memverifikasi TracerPid tanpa bisa di-hook oleh libc wrapper modder.\n• Anti-Injeksi Dumper & Frida: Memindai peta memori virtual secara real-time via direct syscall untuk menggagalkan injeksi memory-dumper, Frida, Xposed, atau Cydia Substrate.\n• Poison Trap Otomatis: Meracuni signature menjadi payload invalid saat terdeteksi upaya dump memori runtime.",
   "forceUpdate": false
 }

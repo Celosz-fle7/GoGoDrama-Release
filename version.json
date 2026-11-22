@@ -1,7 +1,7 @@
 {
-  "versionCode": 10,
-  "versionName": "1.0.9",
-  "apkUrl": "https://github.com/Celosz-fle7/GoGoDrama-Release/releases/download/v1.0.9/GoGoDrama-release.apk",
-  "changelog": "• Hapus Layar Gelap (Zero Black Gap): Transisi antar video mulus tanpa kedip hitam berkat transparent shutter & frame retention\n• Total Episode Otomatis & Akurat: Membaca parameter totalEpisode asli dari server, tidak lagi terpotong 60 episode\n• Pemuatan Episode Penuh: Mengalirkan seluruh episode (80, 100, 120+) secara bertahap via wave chunking\n• Poster Backdrop Halus: Menjaga poster tetap tampil saat video berikutnya sedang disiapkan",
+  "versionCode": 11,
+  "versionName": "1.1.0",
+  "apkUrl": "https://github.com/Celosz-fle7/GoGoDrama-Release/releases/download/v1.1.0/GoGoDrama-release.apk",
+  "changelog": "• Acak Nyata Ribuan Konten: Paging server diacak dari ribuan judul dubbing (tidak monoton mulai dari halaman 1)\n• Anti-Cuplikan Kembar: Cuplikan yang sudah dilewati tersimpan otomatis dan tidak akan muncul lagi\n• Posisi Tab Presisten: Pindah antar tab tetap mempertahankan cuplikan terakhir tanpa reset ke awal\n• Bersih Tanpa Audio Dobel: Menghilangkan Mini-PiP & otomatis jeda cuplikan saat masuk mode nonton\n• Video Penuh Layar (Full-Screen Fit): Zoom adaptif tanpa bilah hitam di sisi layar\n• Navigasi Bawah Tersembunyi: Mode nonton imersif tanpa gangguan navbar bawah",
   "forceUpdate": false
 }

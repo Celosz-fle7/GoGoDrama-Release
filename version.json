@@ -1,7 +1,7 @@
 {
-  "versionCode": 11,
-  "versionName": "1.1.0",
-  "apkUrl": "https://github.com/Celosz-fle7/GoGoDrama-Release/releases/download/v1.1.0/GoGoDrama-release.apk",
-  "changelog": "• Acak Nyata Ribuan Konten: Paging server diacak dari ribuan judul dubbing (tidak monoton mulai dari halaman 1)\n• Anti-Cuplikan Kembar: Cuplikan yang sudah dilewati tersimpan otomatis dan tidak akan muncul lagi\n• Posisi Tab Presisten: Pindah antar tab tetap mempertahankan cuplikan terakhir tanpa reset ke awal\n• Bersih Tanpa Audio Dobel: Menghilangkan Mini-PiP & otomatis jeda cuplikan saat masuk mode nonton\n• Video Penuh Layar (Full-Screen Fit): Zoom adaptif tanpa bilah hitam di sisi layar\n• Navigasi Bawah Tersembunyi: Mode nonton imersif tanpa gangguan navbar bawah",
+  "versionCode": 12,
+  "versionName": "1.1.1",
+  "apkUrl": "https://github.com/Celosz-fle7/GoGoDrama-Release/releases/download/v1.1.1/GoGoDrama-release.apk",
+  "changelog": "• Tarik Untuk Reload (Pull-To-Refresh): Tab Beranda (Untukmu & semua kategori) kini bisa ditarik ke bawah untuk refresh\n• Acak Katalog Tanpa Batas: Tombol Acak instan & rotasi server page agar pengguna tidak bosan dengan konten yang itu-itu saja\n• Otomatis Jeda saat Keluar App: Video/cuplikan otomatis pause seketika saat user minimize/tekan Home/matikan layar\n• Zero Background Leak: Tidak ada lagi audio/video tertinggal saat keluar dari aplikasi",
   "forceUpdate": false
 }

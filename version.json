@@ -1,7 +1,7 @@
 {
-  "versionCode": 21,
-  "versionName": "1.2.0",
-  "apkUrl": "https://github.com/Celosz-fle7/GoGoDrama-Release/releases/download/v1.2.0/GoGoDrama-release.apk",
-  "changelog": "• Dual-Player Pool & Curi Start (VideoPreloadManager): Maksimal 2 instance ExoPlayer di RAM, pre-buffer 2-3s untuk video N+1 di feed For You dan swap instan 0 ms.\n• Curi Start Episode Player (Mobile & TV Zona 5): Pre-buffer 3-5 detik episode N+1 otomatis saat durasi mencapai 75% atau tersisa 15 detik.\n• Swipe For You Sehalus TikTok: Menggunakan TextureView sinkron frame animasi geser Compose, beyondViewportPageCount = 1, settledPage trigger, dan poster cover fade 150ms setelah frame pertama (anti-layar hitam).\n• Kompresi Hero TV: Batas decode 1280x720 (Precision.INEXACT) + RGB_565 + debounce 300ms + auto-clear memory cache saat masuk player.\n• Zero Memory Leak: Pelepasan total resource player saat keluar layar.",
+  "versionCode": 22,
+  "versionName": "1.2.1",
+  "apkUrl": "https://github.com/Celosz-fle7/GoGoDrama-Release/releases/download/v1.2.1/GoGoDrama-release.apk",
+  "changelog": "• Zona 1 (Beranda Atas TV): Tampilan tengah bersih total menampilkan backdrop & auto-preview video 5 detik, 4 kartu bawah simetris penuh (fillMaxWidth weight 1f), D-Pad focus map melompat presisi ke tab aktif.\n• Zona 2 (Full Grid Bersih TV): Navigasi D-Pad bawah membuka grid 2 baris x 4 kolom proporsional (8 kartu per layar), bersih tanpa tab bar / header berulang; D-Pad atas di baris 0 kembali aman ke Zona 1.\n• Zona 3 (Profile & Pengaturan TV): Banner profil elegan di atas, 5 kategori utama rapi tanpa menumpuk toggle, detail opsi dibuka via sub-halaman dengan tombol kembali.\n• Zona 4 (Mesin Pencarian TV): Border banner input pencarian, hasil grid 2 baris x 4 kolom, keyboard QWERTY on-screen di batas paling bawah layar membentang penuh dengan auto-hide saat enter/cari.\n• Zona 5 (Video Player TV): Header kiri atas terpadu (judul, ep, sinopsis 2 baris, badge Gratis/Dubbing) & panel kontrol bawah Rounded Box rapi (Baris 1 seekbar penuh, Baris 2 kapsul 10 tombol kontrol simetris).",
   "forceUpdate": false
 }

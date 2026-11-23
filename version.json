@@ -1,7 +1,7 @@
 {
-  "versionCode": 19,
-  "versionName": "1.1.8",
-  "apkUrl": "https://github.com/Celosz-fle7/GoGoDrama-Release/releases/download/v1.1.8/GoGoDrama-release.apk",
-  "changelog": "• UI Mobile Profile & Pengaturan Modular: Banner profil bergradien + statistik Room real-time, search bar pengaturan dinamis, 5 sub-halaman (Umum, Pemutar & Subtitel dengan Live Preview, Antarmuka, Update & Backup JSON, Biometrik).\n• Arsitektur Android TV (6 Zona Google TV 16:9): Animasi D-Pad 1.06x scale & border emas aktif, Zona 1 Hero Backdrop & 4 kartu, Zona 2 Full 4x3 Grid auto-scroll dengan FocusRequester, Zona 3 Profile 2-Panel, Zona 4 Pencarian TV on-screen keyboard & voice, Zona 5 Player TV overlays (Side Drawer 5-kolom, panel CC, Quality & Audio pills, Resize & Auto-next indicators), Zona 6 Koleksi Saya (Riwayat & Favorit Room).",
+  "versionCode": 20,
+  "versionName": "1.1.9",
+  "apkUrl": "https://github.com/Celosz-fle7/GoGoDrama-Release/releases/download/v1.1.9/GoGoDrama-release.apk",
+  "changelog": "• Arsitektur Streaming Tukang Pos: Penyimpanan stabil maksimal ~80-90 MB meski digunakan setiap hari.\n• Coil Image Cache Ketat: DiskCache 35 MB, MemoryCache 15% RAM, RGB_565 (RAM poster turun 50%), decode poster kecil (320x480), dan pembersihan RAM otomatis saat masuk player.\n• ExoPlayer RAM-Only: Ring buffer RAM 15-30s (DefaultLoadControl), 0 MB video cache di disk, dan 5 MB JSON API cache.\n• Isolasi Tab & Trigger OK-Only TV: Navigasi D-Pad kiri/kanan hanya ubah sorot visual tanpa spam request API, reload hanya pada tombol OK, dan ContentCacheManager TTL 10 menit.\n• Debounce 300ms Backdrop Hero: Navigasi cepat tanpa lag muat gambar latar.\n• Tangga Back TV Bertingkat: Player Panel -> Player Overlay -> Exit; Zona 2 -> Zona 1 (FocusRequester); Zona 3/4/6 -> Zona 1; Root Zona 1 -> double back dalam 2 detik.",
   "forceUpdate": false
 }

@@ -1,7 +1,7 @@
 {
-  "versionCode": 25,
-  "versionName": "1.2.4",
-  "apkUrl": "https://github.com/Celosz-fle7/GoGoDrama-Release/releases/download/v1.2.4/GoGoDrama-release.apk",
-  "changelog": "• Sinkronisasi Jumlah Kartu Dinamis dari Profile: Jumlah kartu di Zona 1 Beranda Atas & kolom grid Zona 2 kini 100% mengikuti opsi pengaturan Profile TV (3 Kolom atau 4 Kolom) tersimpan via DataStore.\n• D-Pad Focus Map Adaptif: Saat disetel 3 kolom, D-Pad ATAS dari kartu 0->Profile, kartu 1->Tab Kategori aktif, kartu 2->Search (1-ke-1 simetris presisi).\n• Top Bar Eksklusif Zona 1: Baris atas bersih total di Zona Profile dan Zona Search.\n• Background Zona 1 Cuplikan Acak Mute (10-15s) & Cuplikan di Dalam Kartu Bersuara (volume 0.8) saat kursor remote diam 5 detik ala YouTube TV.",
+  "versionCode": 26,
+  "versionName": "1.2.5",
+  "apkUrl": "https://github.com/Celosz-fle7/GoGoDrama-Release/releases/download/v1.2.5/GoGoDrama-release.apk",
+  "changelog": "• Perbaikan OTA Updater: Penanganan manual HTTP 302 redirect dari GitHub Release ke blob storage CDN agar pengunduhan update di TV tidak terputus.\n• Anti-Cache & CDN Fallback Manifest: Pengecekan version.json dilengkapi cache-busting timestamp dan fallback jsDelivr untuk mengatasi pemblokiran DNS/ISP.\n• Sinkronisasi Grid Dinamis Profile TV: Zona 1 & Zona 2 otomatis mengikuti pengaturan Profile (3 atau 4 kolom) tersimpan di DataStore.\n• Top Bar Eksklusif Zona 1 & In-Card Video Preview dengan audio (vol 0.8) saat remote diam 5 detik ala YouTube TV.",
   "forceUpdate": false
 }

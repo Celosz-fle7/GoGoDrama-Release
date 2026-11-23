@@ -1,7 +1,7 @@
 {
-  "versionCode": 26,
-  "versionName": "1.2.5",
-  "apkUrl": "https://github.com/Celosz-fle7/GoGoDrama-Release/releases/download/v1.2.5/GoGoDrama-release.apk",
-  "changelog": "• Perbaikan OTA Updater: Penanganan manual HTTP 302 redirect dari GitHub Release ke blob storage CDN agar pengunduhan update di TV tidak terputus.\n• Anti-Cache & CDN Fallback Manifest: Pengecekan version.json dilengkapi cache-busting timestamp dan fallback jsDelivr untuk mengatasi pemblokiran DNS/ISP.\n• Sinkronisasi Grid Dinamis Profile TV: Zona 1 & Zona 2 otomatis mengikuti pengaturan Profile (3 atau 4 kolom) tersimpan di DataStore.\n• Top Bar Eksklusif Zona 1 & In-Card Video Preview dengan audio (vol 0.8) saat remote diam 5 detik ala YouTube TV.",
+  "versionCode": 27,
+  "versionName": "1.2.6",
+  "apkUrl": "https://github.com/Celosz-fle7/GoGoDrama-Release/releases/download/v1.2.6/GoGoDrama-release.apk",
+  "changelog": "• Remote TV Responsif di Mode Bersih: Tombol remote (OK, D-Pad, Play/Pause) langsung ditangkap di level Activity sehingga navbar selalu muncul.\n• List Episode & Auto-Scroll: Drawer episode otomatis scroll ke nomor episode aktif dan fokus navigasi remote stabil tanpa freeze.\n• Pemutaran Video Stabil (Anti-Freeze): Optimasi alokasi single-player hardware MediaCodec TV sehingga video dan audio tetap sinkron sampai detik terakhir tanpa freeze gambar.\n• Desain Navbar TV Modern: Bottom gradient scrim menyatu mulus edge-to-edge ala YouTube TV / Netflix tanpa kotak border mengambang.",
   "forceUpdate": false
 }

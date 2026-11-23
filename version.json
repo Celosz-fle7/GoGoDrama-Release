@@ -1,7 +1,7 @@
 {
-  "versionCode": 23,
-  "versionName": "1.2.2",
-  "apkUrl": "https://github.com/Celosz-fle7/GoGoDrama-Release/releases/download/v1.2.2/GoGoDrama-release.apk",
-  "changelog": "• Zona 5 (Video Player Android TV) Rebuilt: Menggunakan State Machine (Clean, ControlBar, Suggestions, Modal) dengan FocusRequester terkunci tanpa bocor.\n• ControlBar Terpadu: Header kiri atas (judul, ep, sinopsis 2 baris, badge) & Rounded Box kontrol bawah (Baris 1 seekbar penuh, Baris 2 kapsul 11 tombol simetris termasuk tombol More titik 3).\n• Mode Clean: Layar video SurfaceView bersih; D-Pad Kiri/Kanan seek +/-10s dengan toast indikator; D-Pad OK/Atas/Bawah membuka ControlBar.\n• Baris Saran Drama Lainnya (ala YouTube TV): D-Pad Bawah dari Baris 2 membuka baris saran horizontal (Coil 280x400 hemat RAM dari ContentCacheManager), klik OK langsung putar tanpa keluar.\n• Modal Overlay Terkunci: 5 panel (EpisodeDrawer 5 kolom, SubtitlePanel 5 kolom + settings, QualityPanel, AudioPanel, MorePanel) dengan auto-focus item aktif dan tombol BACK kembali tepat ke tombol pemicu.\n• Auto-Fallback Codec H.264/H.265: Cek kapabilitas MediaCodecList hardware TV, listener otomatis fallback saat DECODER_INIT_FAILED agar layar TV tidak hitam.",
+  "versionCode": 25,
+  "versionName": "1.2.4",
+  "apkUrl": "https://github.com/Celosz-fle7/GoGoDrama-Release/releases/download/v1.2.4/GoGoDrama-release.apk",
+  "changelog": "• Sinkronisasi Jumlah Kartu Dinamis dari Profile: Jumlah kartu di Zona 1 Beranda Atas & kolom grid Zona 2 kini 100% mengikuti opsi pengaturan Profile TV (3 Kolom atau 4 Kolom) tersimpan via DataStore.\n• D-Pad Focus Map Adaptif: Saat disetel 3 kolom, D-Pad ATAS dari kartu 0->Profile, kartu 1->Tab Kategori aktif, kartu 2->Search (1-ke-1 simetris presisi).\n• Top Bar Eksklusif Zona 1: Baris atas bersih total di Zona Profile dan Zona Search.\n• Background Zona 1 Cuplikan Acak Mute (10-15s) & Cuplikan di Dalam Kartu Bersuara (volume 0.8) saat kursor remote diam 5 detik ala YouTube TV.",
   "forceUpdate": false
 }

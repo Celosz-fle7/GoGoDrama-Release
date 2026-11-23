@@ -1,7 +1,7 @@
 {
-  "versionCode": 20,
-  "versionName": "1.1.9",
-  "apkUrl": "https://github.com/Celosz-fle7/GoGoDrama-Release/releases/download/v1.1.9/GoGoDrama-release.apk",
-  "changelog": "• Arsitektur Streaming Tukang Pos: Penyimpanan stabil maksimal ~80-90 MB meski digunakan setiap hari.\n• Coil Image Cache Ketat: DiskCache 35 MB, MemoryCache 15% RAM, RGB_565 (RAM poster turun 50%), decode poster kecil (320x480), dan pembersihan RAM otomatis saat masuk player.\n• ExoPlayer RAM-Only: Ring buffer RAM 15-30s (DefaultLoadControl), 0 MB video cache di disk, dan 5 MB JSON API cache.\n• Isolasi Tab & Trigger OK-Only TV: Navigasi D-Pad kiri/kanan hanya ubah sorot visual tanpa spam request API, reload hanya pada tombol OK, dan ContentCacheManager TTL 10 menit.\n• Debounce 300ms Backdrop Hero: Navigasi cepat tanpa lag muat gambar latar.\n• Tangga Back TV Bertingkat: Player Panel -> Player Overlay -> Exit; Zona 2 -> Zona 1 (FocusRequester); Zona 3/4/6 -> Zona 1; Root Zona 1 -> double back dalam 2 detik.",
+  "versionCode": 21,
+  "versionName": "1.2.0",
+  "apkUrl": "https://github.com/Celosz-fle7/GoGoDrama-Release/releases/download/v1.2.0/GoGoDrama-release.apk",
+  "changelog": "• Dual-Player Pool & Curi Start (VideoPreloadManager): Maksimal 2 instance ExoPlayer di RAM, pre-buffer 2-3s untuk video N+1 di feed For You dan swap instan 0 ms.\n• Curi Start Episode Player (Mobile & TV Zona 5): Pre-buffer 3-5 detik episode N+1 otomatis saat durasi mencapai 75% atau tersisa 15 detik.\n• Swipe For You Sehalus TikTok: Menggunakan TextureView sinkron frame animasi geser Compose, beyondViewportPageCount = 1, settledPage trigger, dan poster cover fade 150ms setelah frame pertama (anti-layar hitam).\n• Kompresi Hero TV: Batas decode 1280x720 (Precision.INEXACT) + RGB_565 + debounce 300ms + auto-clear memory cache saat masuk player.\n• Zero Memory Leak: Pelepasan total resource player saat keluar layar.",
   "forceUpdate": false
 }

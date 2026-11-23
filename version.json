@@ -1,7 +1,7 @@
 {
-  "versionCode": 27,
-  "versionName": "1.2.6",
-  "apkUrl": "https://github.com/Celosz-fle7/GoGoDrama-Release/releases/download/v1.2.6/GoGoDrama-release.apk",
-  "changelog": "• Remote TV Responsif di Mode Bersih: Tombol remote (OK, D-Pad, Play/Pause) langsung ditangkap di level Activity sehingga navbar selalu muncul.\n• List Episode & Auto-Scroll: Drawer episode otomatis scroll ke nomor episode aktif dan fokus navigasi remote stabil tanpa freeze.\n• Pemutaran Video Stabil (Anti-Freeze): Optimasi alokasi single-player hardware MediaCodec TV sehingga video dan audio tetap sinkron sampai detik terakhir tanpa freeze gambar.\n• Desain Navbar TV Modern: Bottom gradient scrim menyatu mulus edge-to-edge ala YouTube TV / Netflix tanpa kotak border mengambang.",
+  "versionCode": 28,
+  "versionName": "1.2.7",
+  "apkUrl": "https://github.com/Celosz-fle7/GoGoDrama-Release/releases/download/v1.2.7/GoGoDrama-release.apk",
+  "changelog": "• Keamanan Tingkat Kernel C++: Integrasi NativeSigner via Direct Linux Syscall, proteksi anti-debugging TracerPid & maps injection, serta volatile memory zeroization pada setiap signature API.\n• Remote TV Responsif di Mode Bersih: Tombol remote (OK, D-Pad, Play/Pause) langsung ditangkap di level Activity sehingga navbar selalu muncul.\n• List Episode & Auto-Scroll: Drawer episode otomatis scroll ke nomor episode aktif dan fokus navigasi remote stabil tanpa freeze.\n• Pemutaran Video Stabil (Anti-Freeze): Optimasi alokasi single-player hardware MediaCodec TV sehingga video dan audio tetap sinkron tanpa freeze gambar.",
   "forceUpdate": false
 }

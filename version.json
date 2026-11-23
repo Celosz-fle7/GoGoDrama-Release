@@ -1,7 +1,7 @@
 {
-  "versionCode": 18,
-  "versionName": "1.1.7",
-  "apkUrl": "https://github.com/Celosz-fle7/GoGoDrama-Release/releases/download/v1.1.7/GoGoDrama-release.apk",
-  "changelog": "• Proteksi Memori Anti-Dump Tingkat Kernel: Direct Linux Syscall (openat, read, close) untuk memverifikasi TracerPid tanpa bisa di-hook oleh libc wrapper modder.\n• Anti-Injeksi Dumper & Frida: Memindai peta memori virtual secara real-time via direct syscall untuk menggagalkan injeksi memory-dumper, Frida, Xposed, atau Cydia Substrate.\n• Poison Trap Otomatis: Meracuni signature menjadi payload invalid saat terdeteksi upaya dump memori runtime.",
+  "versionCode": 19,
+  "versionName": "1.1.8",
+  "apkUrl": "https://github.com/Celosz-fle7/GoGoDrama-Release/releases/download/v1.1.8/GoGoDrama-release.apk",
+  "changelog": "• UI Mobile Profile & Pengaturan Modular: Banner profil bergradien + statistik Room real-time, search bar pengaturan dinamis, 5 sub-halaman (Umum, Pemutar & Subtitel dengan Live Preview, Antarmuka, Update & Backup JSON, Biometrik).\n• Arsitektur Android TV (6 Zona Google TV 16:9): Animasi D-Pad 1.06x scale & border emas aktif, Zona 1 Hero Backdrop & 4 kartu, Zona 2 Full 4x3 Grid auto-scroll dengan FocusRequester, Zona 3 Profile 2-Panel, Zona 4 Pencarian TV on-screen keyboard & voice, Zona 5 Player TV overlays (Side Drawer 5-kolom, panel CC, Quality & Audio pills, Resize & Auto-next indicators), Zona 6 Koleksi Saya (Riwayat & Favorit Room).",
   "forceUpdate": false
 }

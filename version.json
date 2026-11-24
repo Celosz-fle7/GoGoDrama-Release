@@ -1,7 +1,7 @@
 {
-  "versionCode": 29,
-  "versionName": "1.2.8",
-  "apkUrl": "https://github.com/Celosz-fle7/GoGoDrama-Release/releases/download/v1.2.8/GoGoDrama-release.apk",
-  "changelog": "• Desain Pemutar TV Ala YouTube TV: Header dan baris kontrol bersih tanpa kotak border mengambang dengan latar gradient gelap lembut edge-to-edge.\n• Tombol Kontrol Kapsul & Lingkaran: Kelompok tombol rapi dengan lingkaran putih besar Play/Pause di tengah dan kapsul menu ringkas.\n• Alur 2 Tingkat Saran Konten: Tingkat 1 kartu mengintip elegan di bawah kontrol bar, dan Tingkat 2 grid scrollable 16:9 saat remote ditekan ke bawah dengan timer auto-hide cerdas.\n• Menu Lainnya Lebih Bersih: Pengaturan ukuran layar, auto-next, trek audio, decoder, dan kecepatan putar terorganisir rapi di menu Lainnya (⋮).",
+  "versionCode": 30,
+  "versionName": "1.2.9",
+  "apkUrl": "https://github.com/Celosz-fle7/GoGoDrama-Release/releases/download/v1.2.9/GoGoDrama-release.apk",
+  "changelog": "• Integrasi Taksonomi & Genre Resmi ShortTV: Pemetaan genre asli server (Modern, Perjalanan Waktu, Zaman, Fantasi, Keluarga, Ketegangan) ke dalam tagList drama.\n• Filter & Re-Ranking Presisi: Pencarian katalog resmi ShortTV mendukung parameter genre, tag kata kunci (CEO, Sweet Love, Revenge, dll), serta re-ranking bilingual Indonesia & Inggris.\n• Pembaruan Preferensi Tema: Pengaturan profil dan katalog Android TV otomatis memprioritaskan drama sesuai tema pilihan pengguna.",
   "forceUpdate": false
 }

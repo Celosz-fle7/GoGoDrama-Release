@@ -1,7 +1,7 @@
 {
-  "versionCode": 34,
-  "versionName": "1.3.3",
-  "apkUrl": "https://github.com/Celosz-fle7/GoGoDrama-Release/releases/download/v1.3.3/GoGoDrama-release.apk",
-  "changelog": "• Perbaikan Resume / Lanjut Tonton: Pemutar otomatis melanjutkan posisi detik & episode terakhir dari database Room (Discover, Koleksi, & For You).\n• Sinkronisasi Preferensi Player: Tombol auto-next dan durasi double tap seek kini terhubung langsung ke preferensi pengaturan.\n• Optimasi Riwayat & Error Retry: Throttle penyimpanan riwayat Room 5 detik, flush sebelum destroy, serta error state dengan tombol coba lagi.",
+  "versionCode": 35,
+  "versionName": "1.3.4",
+  "apkUrl": "https://github.com/Celosz-fle7/GoGoDrama-Release/releases/download/v1.3.4/GoGoDrama-release.apk",
+  "changelog": "• Pembersihan Dead Code & Optimasi Ukuran: Menghapus seluruh fragmen dan layout XML lama serta beralih 100% Jetpack Compose.\n• Keamanan Aplikasi: Pengamanan Manifest (allowBackup dinonaktifkan) dan perapian ProGuard rules.\n• Aksesibilitas Navbar & UI: Dukungan TalkBack Role.Tab pada navigasi bawah serta penyesuaian jarak aman konten agar tidak tertutup navbar.",
   "forceUpdate": false
 }

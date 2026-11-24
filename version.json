@@ -2,6 +2,6 @@
   "versionCode": 36,
   "versionName": "1.3.5",
   "apkUrl": "https://github.com/Celosz-fle7/GoGoDrama-Release/releases/download/v1.3.5/GoGoDrama-release.apk",
-  "changelog": "• Ketajaman Visual & Coil ARGB_8888: Menghilangkan banding gradasi gelap poster, rasio 2:3 bebas teks terpotong, serta resolusi tinggi TV backdrop (1080p EXACT).\n• Kehalusan Swap Player & Anti-Layar Hitam: Transisi video tanpa kedip hitam via continuous media item & backdrop fade out.\n• Gestur Terpadu: Single tap instan dan double tap seek presisi tanpa konflik pada pemutar video.",
+  "changelog": "• Zona 5 TV Player (State Peek & D-Pad Bertingkat): Navigasi bertingkat ControlBar -> Peek (140dp) -> Suggestions, auto-hide timer presisi (5s/10s), serta responsif TV 720p–4K.\n• Ketajaman Visual & Coil ARGB_8888: Menghilangkan banding gradasi gelap poster, rasio 2:3 bebas teks terpotong, serta resolusi tinggi TV backdrop (1080p EXACT).\n• Kehalusan Swap Player & Anti-Layar Hitam: Transisi video tanpa jeda layar hitam via continuous media item & cover fade out.\n• Gestur Terpadu Mobile: Single tap instan dan double tap seek presisi tanpa konflik pada pemutar video.",
   "forceUpdate": false
 }

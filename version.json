@@ -1,7 +1,7 @@
 {
-  "versionCode": 30,
-  "versionName": "1.2.9",
-  "apkUrl": "https://github.com/Celosz-fle7/GoGoDrama-Release/releases/download/v1.2.9/GoGoDrama-release.apk",
-  "changelog": "• Integrasi Taksonomi & Genre Resmi ShortTV: Pemetaan genre asli server (Modern, Perjalanan Waktu, Zaman, Fantasi, Keluarga, Ketegangan) ke dalam tagList drama.\n• Filter & Re-Ranking Presisi: Pencarian katalog resmi ShortTV mendukung parameter genre, tag kata kunci (CEO, Sweet Love, Revenge, dll), serta re-ranking bilingual Indonesia & Inggris.\n• Pembaruan Preferensi Tema: Pengaturan profil dan katalog Android TV otomatis memprioritaskan drama sesuai tema pilihan pengguna.",
+  "versionCode": 31,
+  "versionName": "1.3.0",
+  "apkUrl": "https://github.com/Celosz-fle7/GoGoDrama-Release/releases/download/v1.3.0/GoGoDrama-release.apk",
+  "changelog": "• Panel Filter Konten Modular (Mobile & TV): Pengaturan filter lengkap 5 kelompok (Urutkan, Saluran, Negara, Genre, dan Kata Kunci) dengan tombol 'Mengatur ulang' dan 'Mengonfirmasi'.\n• Sinkronisasi Seketika: Perubahan filter langsung diterapkan seketika pada tab Beranda (Discover), feed cuplikan (For You), serta katalog Android TV.\n• Pencarian & Re-Ranking Presisi: Prioritaskan konten sesuai genre dan kata kunci bilingual dengan tetap mempertahankan 100% sulih suara Indonesia.",
   "forceUpdate": false
 }

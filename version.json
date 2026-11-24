@@ -1,7 +1,7 @@
 {
-  "versionCode": 31,
-  "versionName": "1.3.0",
-  "apkUrl": "https://github.com/Celosz-fle7/GoGoDrama-Release/releases/download/v1.3.0/GoGoDrama-release.apk",
-  "changelog": "• Panel Filter Konten Modular (Mobile & TV): Pengaturan filter lengkap 5 kelompok (Urutkan, Saluran, Negara, Genre, dan Kata Kunci) dengan tombol 'Mengatur ulang' dan 'Mengonfirmasi'.\n• Sinkronisasi Seketika: Perubahan filter langsung diterapkan seketika pada tab Beranda (Discover), feed cuplikan (For You), serta katalog Android TV.\n• Pencarian & Re-Ranking Presisi: Prioritaskan konten sesuai genre dan kata kunci bilingual dengan tetap mempertahankan 100% sulih suara Indonesia.",
+  "versionCode": 32,
+  "versionName": "1.3.1",
+  "apkUrl": "https://github.com/Celosz-fle7/GoGoDrama-Release/releases/download/v1.3.1/GoGoDrama-release.apk",
+  "changelog": "• Multi-Select Genre & Kata Kunci (Mobile & Android TV): Pengguna kini dapat memilih lebih dari satu genre (misal Modern + Fantasi) dan beberapa kata kunci sekaligus (misal CEO + Revenge) dengan mudah.\n• Sistem Pembobotan & Re-Ranking Cerdas: Konten yang memenuhi beberapa kriteria sekaligus otomatis mendapat skor tertinggi di barisan teratas.\n• Sinkronisasi Seketika: Langsung memperbarui katalog Discover, For You, dan Android TV seketika.",
   "forceUpdate": false
 }

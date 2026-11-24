@@ -1,7 +1,7 @@
 {
-  "versionCode": 32,
-  "versionName": "1.3.1",
-  "apkUrl": "https://github.com/Celosz-fle7/GoGoDrama-Release/releases/download/v1.3.1/GoGoDrama-release.apk",
-  "changelog": "• Multi-Select Genre & Kata Kunci (Mobile & Android TV): Pengguna kini dapat memilih lebih dari satu genre (misal Modern + Fantasi) dan beberapa kata kunci sekaligus (misal CEO + Revenge) dengan mudah.\n• Sistem Pembobotan & Re-Ranking Cerdas: Konten yang memenuhi beberapa kriteria sekaligus otomatis mendapat skor tertinggi di barisan teratas.\n• Sinkronisasi Seketika: Langsung memperbarui katalog Discover, For You, dan Android TV seketika.",
+  "versionCode": 33,
+  "versionName": "1.3.2",
+  "apkUrl": "https://github.com/Celosz-fle7/GoGoDrama-Release/releases/download/v1.3.2/GoGoDrama-release.apk",
+  "changelog": "• Perbaikan Lifecycle Cuplikan For You: Memperbaiki bug di mana audio/video cuplikan For You terputar di latar belakang saat menerapkan filter dari profil.\n• Tab Visibility Guard: Video cuplikan dipastikan 100% senyap dan hanya berputar saat pengguna benar-benar membuka tab For You.",
   "forceUpdate": false
 }
